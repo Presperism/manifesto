@@ -15,7 +15,7 @@ la reale implementazione.
 Al fine di evitare fraintendimenti è importante fornire una definizione del significato di ciascuno dei suddetti valori nel presente contesto:
 - **La dignità umana** è definita come: “la garanzia di avere accesso alle fonti di sostentamento ed ai servizi essenziali al mantenimento di una condizione 
 - di buona salute”.
-- **La libertà** è definita, riprendendo von Hayek [^1] , come: “l’assenza di coercizione dalla volontà altrui”.
+- **La libertà** è definita, riprendendo von Hayek<sup>[1](#footnote1)</sup> , come: “l’assenza di coercizione dalla volontà altrui”.
 - **La responsabilità** è definita come: “il coraggio di affrontare le conseguenze delle proprie decisioni”. 
 Il Prosperismo individua le seguenti relazioni causali tra i valori fondanti: 
 1. la dignità umana è precondizione della libertà; 
@@ -40,4 +40,4 @@ Il prosperismo è un’ideologia saldamente fondata sui principi democratici per
 concerne lo studio di strategie concrete che consentano una transizione democratica, pacifica ed economicamente sostenibile da un’economia di 
 stampo capitalista-liberista ad una di stampo prosperista.
 
-[^1]: Friedrich von Hayek, La società libera, traduzione di Marcella Bianchi di Lavagna Malagodi, revisione di Lorenzo Infantino e Nicola Iannello, Rubettino, 2007.
+<a name="footnote1">1</a>: Friedrich von Hayek, La società libera, traduzione di Marcella Bianchi di Lavagna Malagodi, revisione di Lorenzo Infantino e Nicola Iannello, Rubettino, 2007.
