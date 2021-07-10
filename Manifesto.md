@@ -40,4 +40,4 @@ Il prosperismo è un’ideologia saldamente fondata sui principi democratici per
 concerne lo studio di strategie concrete che consentano una transizione democratica, pacifica ed economicamente sostenibile da un’economia di 
 stampo capitalista-liberista ad una di stampo prosperista.
 
-<a name="footnote1">1</a>: Friedrich von Hayek, La società libera, traduzione di Marcella Bianchi di Lavagna Malagodi, revisione di Lorenzo Infantino e Nicola Iannello, Rubettino, 2007.
+  <a name="footnote1">1</a>: *Friedrich von Hayek, La società libera, traduzione di Marcella Bianchi di Lavagna Malagodi, revisione di Lorenzo Infantino e Nicola Iannello, Rubettino, 2007.*
